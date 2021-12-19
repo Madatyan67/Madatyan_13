@@ -1,5 +1,5 @@
 ﻿
-namespace Malakhov13
+namespace Madatyan13
 {
     partial class Form1
     {
